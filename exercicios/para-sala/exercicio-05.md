@@ -1,0 +1,1 @@
+Pelo terminal, identifique em qual pasta você está.
